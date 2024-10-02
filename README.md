@@ -19,7 +19,7 @@ docker run -e username=your-auto-generated-username pointlesscode/cortex-forge
 ```
 
 ```
-Check your achievements at: https://pointlesscode.dev/cortex-forge/your-auto-generated-username
+Check your achievements at: https://pointlesscode.dev/cortex-forge/achievements/your-auto-generated-username
 ```
 ## Social
 
